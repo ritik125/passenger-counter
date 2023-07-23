@@ -1,0 +1,54 @@
+body {
+    background-image: url("yarn.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+.container {
+    background-image: url("yarn.jpg");
+    max-width: 80%;
+    margin: auto;
+    border: transparent;
+    border-radius: 10px;
+}
+
+h1 {
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: white;
+    font-size: 50px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #2C2891;
+}
+
+#save-btn {
+    background: #1C7947;
+}
+
+#save-el {
+    font-size: 27px;
+    color: white;
+    font-weight: bold;
+}
+
